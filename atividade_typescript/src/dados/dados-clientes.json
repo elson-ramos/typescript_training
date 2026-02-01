@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Alice Almeida",
+        "email": "alice@teste.com.br",
+        "ano_nacimento": 2010
+    },
+    {
+        "id": 2,
+        "nome": "Carlos Alberto",
+        "email": "carlos@teste.com.br",
+        "ano_nacimento": 2007
+    },
+    {
+        "id": 3,
+        "nome": "Maria silva",
+        "email": "maria@teste.com.br",
+        "ano_nacimento": 2005
+    }
+]
