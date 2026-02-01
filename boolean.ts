@@ -12,5 +12,3 @@ if (!temVirus) {
 }else{
     console.log("ta tendo");
 }
-
-//          
