@@ -1,0 +1,11 @@
+const arquivoJSON_composto_por_arrays = [
+    {
+        "arquitetura REST": "pode gerar retorno em json ou XML.",
+        "arquivo json": "resposta gerada pela arquitetura REST",
+        "json": "usado pra representar ED simples e objetos",
+
+        "formato": "do arquivo:",
+
+        "chave": "valor"
+    }
+]
