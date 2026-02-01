@@ -7,7 +7,7 @@ console.log(ativacao);
 // exemplo:
 let temVirus:boolean = true;
 
-if (!a) {
+if (!temVirus) {
     console.log("nao ta tendo");
 }else{
     console.log("ta tendo");
