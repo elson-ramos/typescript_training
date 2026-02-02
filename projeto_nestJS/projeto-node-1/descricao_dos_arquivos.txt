@@ -1,0 +1,11 @@
+na pasta SRC:
+
+main.ts -> arquivo de execução do programa; chamada de classes do projeto; definição da porta de execução do serviço.
+
+app.controller.ts -> definição da rotas de uma aplicação.
+
+rota -> a rota contém um endereço do serviço que a página web faz a chamada; rota = url do serviço.
+
+app.service.ts -> adição das regras de negócio; toda a parte de obtenção, tratamento de dados e processamento de informação é feita no service.
+
+app.module.ts -> declaração de todas as classes controller e service que está se utilizando; agrupa as classes e organiza o código.
