@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",            // pasta onde os arquivos do projeto sao criadas
+    "skipLibCheck": true,
+    "target": "ES2016",          // versão do JS que será usada para converter para TS
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "outDir": "./build",         // define onde os arquivos serão compilados
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
