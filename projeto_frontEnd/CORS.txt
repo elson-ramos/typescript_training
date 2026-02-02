@@ -1,0 +1,5 @@
+CORS (Cross-origin Resource Sharing): Recurso de segurança para restringir solicitações de fontes desconhecidas.
+
+o> serve para evitar que a API ou site seja atacado e forneça informações do banco de dados.
+
+o> bloqueia solicitações do local host, e para desbloquear:
