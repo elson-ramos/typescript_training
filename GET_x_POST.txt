@@ -1,0 +1,19 @@
+GET: utilizado para navegar entre as páginas do sistema
+chamadas -> quando o usuário clica em um item ou navega pelo sistema
+
+o> utilizado exclusivamente para obter informações,
+e retorna uma lista de objetos no formato json.
+
+
+
+
+POST: é utilizado nos formulários do HTML.
+chamadas -> quando o usuário preenche os campos e envia para o servidor.
+
+o> utilizado exclusivamente para criar registros, do lado do servidor;
+processamento de dados.
+
+
+PUT: alterar ou atualizar um registro.
+
+DELETE: soliciar a exclusão de um registro.
