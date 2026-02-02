@@ -1,0 +1,11 @@
+NestJS: framework para criação de aplições backend, com o Node.js; suporte ao typescript; funciona em cima de um server HTTP.
+
+Paradigmas de programação:
+
+POO: programas organizados em classes e objetos, contendo atributos e métodos.
+
+Programação Funcional: foco na avaliação de funções.
+
+Programação Reativa: eventos  e dados assíncronos.
+
+Estruturas de servidor HTTP: Express e Fastify -> flexibilidade e desempenho.
